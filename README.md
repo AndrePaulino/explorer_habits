@@ -12,7 +12,8 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+<img src="https://img.shields.io/static/v1?label=Por&message=RocketSeat&color=white&labelColor=8257E5" alt="Por Rocketseat">
+  <img alt="License" src="https://img.shields.io/static/v1?label=licença&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
@@ -22,20 +23,22 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 </p>
 
 ## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+<!-- <p align="center"> -->
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<br>
+<img src=""/>
+<img src=""/>
+<!-- </p> -->
 
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear hábitos.
-
-[Visite o projeto]()
-
+[Visite o projeto](https://andrepaulino.github.io/nlw_explorer_habits/)
+<br>
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto [AQUI](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto [aqui](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
