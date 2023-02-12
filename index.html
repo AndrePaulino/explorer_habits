@@ -14,6 +14,7 @@
 
 		<link rel="stylesheet" href="style.css" />
 		<script defer src="./scripts/habitTracker.js"></script>
+		<script defer src="./scripts/script.js"></script>
 		<title>Hábitos</title>
 	</head>
 	<body>
@@ -27,24 +28,11 @@
 
 		<form id="form-habits">
 			<div class="habits">
-				<div class="habit">🚰</div>
-				<div class="habit">🥘</div>
-				<div class="habit">🎶</div>
+				<div class="habit" data-name="water">🚰</div>
+				<div class="habit" data-name="food">🥘</div>
+				<div class="habit" data-name="music">🎶</div>
 			</div>
-			<div class="days">
-				<div class="day">
-					<div>14/07</div>
-					<input name="water" type="checkbox" />
-					<input name="food" type="checkbox" />
-					<input name="music" type="checkbox" />
-				</div>
-				<div class="day">
-					<div>15/07</div>
-					<input name="water" type="checkbox" />
-					<input name="food" type="checkbox" />
-					<input name="music" type="checkbox" />
-				</div>
-			</div>
+			<div class="days"></div>
 		</form>
 	</body>
 </html>
