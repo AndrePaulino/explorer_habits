@@ -1,6 +1,6 @@
-const habitTracker = new NLWSetup(habitsContainer);
 const habitsContainer = document.querySelector("#form-habits");
 const addHabitBtn = document.querySelector("header button");
+const habitTracker = new NLWSetup(habitsContainer);
 
 addHabitBtn.addEventListener("click", () => {
 	const today = new Date().toLocaleDateString("pt-br").slice(0, 5);
