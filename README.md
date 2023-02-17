@@ -37,7 +37,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear hábitos.
-[Visite o projeto](https://andrepaulino.github.io/nlw_explorer_habits/)
+[Visite o projeto.](https://andrepaulino.github.io/nlw_explorer_habits/) E para a documentação da biblioteca utilizada, [aqui](https://habittrackerlib.vercel.app/).
 <br>
 ## 🔖 Layout
 
